@@ -1,0 +1,32 @@
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\bin\Debug\CLINEC.exe.config
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\bin\Debug\CLINEC.exe
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\bin\Debug\CLINEC.pdb
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.csprojResolveAssemblyReference.cache
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.Form1.resources
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.patients.resources
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.Properties.Resources.resources
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.csproj.GenerateResource.Cache
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.exe
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.pdb
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.Doctors.resources
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.Departments.resources
+D:\مشروع ماده Data base\sql\CLINEC\CLINEC\obj\Debug\CLINEC.page_of_detection.resources
+G:\eslam bokhory\sql\CLINEC\CLINEC\bin\Debug\CLINEC.exe.config
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.exe
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.pdb
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.csprojResolveAssemblyReference.cache
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.Departments.resources
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.Doctors.resources
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.Form1.resources
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.page_of_detection.resources
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.patients.resources
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.Properties.Resources.resources
+G:\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.csproj.GenerateResource.Cache
+G:\eslam bokhory\sql\CLINEC\CLINEC\bin\Debug\CLINEC.exe
+G:\eslam bokhory\sql\CLINEC\CLINEC\bin\Debug\CLINEC.pdb
+D:\مشروع ماده Data base\eslam bokhory\sql\CLINEC\CLINEC\bin\Debug\CLINEC.exe.config
+D:\مشروع ماده Data base\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.exe
+D:\مشروع ماده Data base\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.pdb
+E:\مشروع ماده Data base\eslam bokhory\sql\CLINEC\CLINEC\bin\Debug\CLINEC.exe.config
+E:\مشروع ماده Data base\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.exe
+E:\مشروع ماده Data base\eslam bokhory\sql\CLINEC\CLINEC\obj\Debug\CLINEC.pdb
